@@ -2,10 +2,6 @@
 
 ## 👨‍💻 *I am a Data Engineer*
 
-```
-💡 Animation Placeholder: (You can later embed a GIF or SVG such as "< I am a Data Engineer />")
-```
-
 ---
 
 ## 🚀 Introduction
